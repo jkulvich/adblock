@@ -1,9 +1,0 @@
-! Title: AntiAdblocker
-! Description: Block adblock detectors
-
-! Expires: 3 days
-! License: https://github.com/jkulvich/adblock/blob/master/LICENSE
-! Homepage: https://github.com/jkulvich/adblock
-
-! [[ mi-globe.com ]]
-mi-globe.com##.page-template-default div[style*="z-index: 999999"]
