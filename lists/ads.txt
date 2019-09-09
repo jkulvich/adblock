@@ -7,3 +7,4 @@
 
 [[ fb.ru ]]
 fb.ru##div > sjdiv
+fb.ru##.innerbox__bg.js-ts-list > .feature.js-sticky-item.js-tracker > a.feature__wrap
