@@ -8,3 +8,4 @@
 [[ fb.ru ]]
 fb.ru##div > sjdiv
 fb.ru##div.innerbox__bg.js-ts-list
+fb.ru##div.innerbox__sticky.js-sticky-holder.is-filled
