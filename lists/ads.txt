@@ -1,0 +1,9 @@
+! Title: Ads
+! Description: Block some specific ads
+
+! Expires: 3 days
+! License: https://github.com/jkulvich/adblock/blob/master/LICENSE
+! Homepage: https://github.com/jkulvich/adblock
+
+[[ fb.ru ]]
+fb.ru##div > sjdiv
