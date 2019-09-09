@@ -9,9 +9,13 @@ For example, link to AntiAdblocker list: `https://raw.githubusercontent.com/jkul
 Add these links:
 ```
 https://raw.githubusercontent.com/jkulvich/adblock/master/lists/antiadblocker.txt
+https://raw.githubusercontent.com/jkulvich/adblock/master/lists/ads.txt
 ```
 
 # Usages
 
 ## antiadblocker
 Blocks the effects of ad blocker identifiers
+
+## ads
+Block some specific ads
